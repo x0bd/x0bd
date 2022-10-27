@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @synthmancer
+- 👋 Hi, I’m Tino
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning react and node.js
 - 💞️ I’m looking to collaborate on ...
