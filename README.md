@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tino
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning react and node.js
+- 👀 I’m interested in web development and engineering intelligence
+- 🌱 I’m currently learning tensorflow
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
