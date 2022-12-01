@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tino
-- 👀 I’m interested in web development, bot development and blender
+- 👀 I’m interested in web development and blender
 - 🌱 I’m currently learning stuff, lots of stuff
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
