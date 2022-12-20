@@ -1,5 +1,6 @@
 <h1 align="left">こんにちは 👋, I'm Tino</h1>
 <h3 align="left">I design and build stuff for the web | also decoding signals from the void ⭕ through art.</h3>
+<p align="center"><a href="https://ibb.co/87HtdTs"><img src="https://i.ibb.co/qrvVWXj/Connected-pixelart-scifi-cyberpunk-futuristic-2d-animation-16bit-8bit-artistsoninstagram-dystopia-dy.gif" alt="Connected-pixelart-scifi-cyberpunk-futuristic-2d-animation-16bit-8bit-artistsoninstagram-dystopia-dy" border="0" ></a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=synthmancer&label=Profile%20views&color=0e75b6&style=flat" alt="synthmancer" /> </p>
 
