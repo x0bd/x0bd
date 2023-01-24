@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm Tinodaishe Tembo. I build stuff for the web. I am interested in cracking artificial general intelligence.
+Hi I'm Tinodaishe Tembo. I build stuff for the web. I am interested in AGI
 
 
 ## 🌐 Socials:
