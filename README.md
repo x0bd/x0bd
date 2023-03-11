@@ -1,5 +1,5 @@
 
-# <b>Hi I'm Tinodaishe and I enjoy designing and building stuff for the web. <b>
+# <b>Hi I'm Tinodaishe and I build stuff for the web. <b>
 
 <br>
 
