@@ -1,5 +1,5 @@
 
-# <b>Hi I'm Tinodaishe. I am creative frontend developer and game developer. <b>
+# <b>Hi I'm Tinodaishe. I am creative frontend engineer and game developer. <b>
 
 <br>
 
