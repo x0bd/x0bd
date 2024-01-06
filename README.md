@@ -1,6 +1,6 @@
 
 # Hi 👋 There,
-#### I enyoy decoding signals from the void through code and pixel experiments.
+### I enjoy decoding signals from the void through code and pixel experiments.
 
 ## Here are my favorite tools
 
